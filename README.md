@@ -1,6 +1,9 @@
-# lasthope
+# PACMAN
 
-A new Flutter project.
+A new Flutter project.This project is to make a pacman game using flutter
+currently it has pacman that is user controlled(swipe gestures)
+
+and has 3 ghosts.The movement isnt perfect and needs work
 
 ## Getting Started
 
